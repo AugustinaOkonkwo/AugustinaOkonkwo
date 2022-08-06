@@ -1,4 +1,4 @@
-Hi, I’m Augustina Okonkwo, a Junior Data Scientist with strong background in Mathematics and Physics. 
+Hi, I’m Augustina Okonkwo, a Data Scientist with strong background in Mathematics and Physics. 
 
 I am analytically curious with proficiency working with Python and Power BI.
 
