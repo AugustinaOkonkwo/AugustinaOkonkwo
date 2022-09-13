@@ -2,7 +2,7 @@ Hi, I’m Augustina Okonkwo, a Data Scientist with strong background in Mathemat
 
 I am analytically curious with proficiency working with Python and Power BI.
 
-I am currently learning SQL and Tableau.
+I am currently learning SQL.
 
 I enjoy analyzing and visualizing data to make better and informed decisions.
 
