@@ -1,4 +1,4 @@
-Hi, I’m Augustina Okonkwo, a Data Scientist with strong background in MathematicS. 
+Hi, I’m Augustina Okonkwo, a Data Scientist with strong background in Mathematics. 
 
 I am analytically curious with proficiency working with Python and Power BI.
 
