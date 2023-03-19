@@ -1,8 +1,6 @@
 Hi, I’m Augustina Okonkwo, a Data analyst with strong background in Mathematics. 
 
-I am analytically curious with proficiency working with Python and Power BI.
-
-I am currently learning SQL.
+I am analytically curious with proficiency working with Python,Power BI and SQL.
 
 I enjoy analyzing and visualizing data to make better and informed decisions.
 
