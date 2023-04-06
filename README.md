@@ -1,4 +1,4 @@
-Hi, I’m Augustina Okonkwo, a Data analyst with strong background in Mathematics. 
+Hi, I’m Tina Okonkwo, a Data analyst with strong background in Mathematics. 
 
 I am analytically curious with proficiency working with Python,Power BI and SQL.
 
